@@ -1,0 +1,11 @@
+eslint-plugin-node
+==================
+
+## Usage
+
+Run `yarn add --dev @lifeomic/eslint-plugin-node`. Then update your ESLint
+config to include `"extends": "plugin:@lifeomic/node/recommended"`.
+
+More details can be found in the [ESLint documentation][config-from-plugins].
+
+[config-from-plugins]: https://eslint.org/docs/user-guide/configuring#using-the-configuration-from-a-plugin "Using the configuration from a plugin"
