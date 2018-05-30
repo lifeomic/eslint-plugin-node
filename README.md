@@ -1,6 +1,8 @@
 eslint-plugin-node
 ==================
 
+[![Build Status](https://travis-ci.org/lifeomic/eslint-plugin-node.svg?branch=master)](https://travis-ci.org/lifeomic/eslint-plugin-node)
+
 ## Usage
 
 Run `yarn add --dev @lifeomic/eslint-plugin-node`. Then update your ESLint
