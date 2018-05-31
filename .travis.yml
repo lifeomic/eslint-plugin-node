@@ -9,9 +9,8 @@ notifications:
     on_failure: always
 deploy:
   provider: npm
-  email: jeffrey.jagoda@gmail.com
-  api_key:
-    secure: CUjNz8mnG/fskZYGv2CgzlmAduWjyhkAHB00lX3sydKylTAvimu76HC1ymRJfWJQRkJmHZcKV4PsLvD3P592/rLhorn1v6+tWede3/8T27g1dFZxh0CO1P6ZfU//JpFEhF+jCTHFFSedW1DX2kS/peiYIzgSrc3HcRhjsuwikvZp8UeXUgyAga6AZhBy9RJ7Tb8I+EkaOtBgNmAdbwfYIoJP17NMNcIzsllXHZmcgOP7oarBmtniTdno55Hd/R+KozZKKyEe0CTiNhJ2VGsPxoCtDHEqSUt07q7hr3Yn6rvNLdnW9iKG3kHrnxGFiJsDZpsvQCN7EI6tNOKp71bForSTlzUlI1eqyfMkiljGmNq//m6WtZiyTYed5hXzy0BFqUF2eq0rFnR1AyDM19Zbdl/DovsWkKsOGOY0mmB/EOA8xVY96ANpL00zqQ+hDl/OYSTlFXqWEO5UWuUtIB4BFLchqAth4OdsTmwzXK/K1BizUj0ALt/a+4LWkEpEk36KZG0f1tXCZ7xQZ5i6+XaxPYRg5Ym1AS9QaUQm+DMedxiRfqGzkUS57kR+m0Qc+oShmZpqq6YGnNWo9q2lB9yipW8C7JTKQcVp0p/cHsh9Xz77VJ6Deu0VOqZyDeDR9Ttb6m/mNbf9qJz0By0fsXnXmlYv0cwuVotbKaV6nxuDjjw=
+  email: $NPM_EMAIL
+  api_key: $NPM_KEY
   on:
     tags: true
     repo: lifeomic/eslint-plugin-node
