@@ -24,7 +24,7 @@
     "eslint-config-semistandard": "^12.0.1",
     "eslint-config-standard": "^11.0.0",
     "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-lodash": "^2.6.1",
+    "eslint-plugin-lodash": "^3.1.0",
     "eslint-plugin-node": "^7.0.0",
     "eslint-plugin-promise": "^4.0.0",
     "eslint-plugin-security": "^1.4.0",
