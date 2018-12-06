@@ -7,14 +7,16 @@ exports.configs = {
     plugins: [
       'import',
       'lodash',
-      'security'
+      'security',
+      'no-only-tests'
     ],
     rules: {
       'generator-star-spacing': ['error', {'before': false, 'after': true}],
       'import/no-extraneous-dependencies': 'error',
       'lodash/import-scope': 'warn',
       'no-var': 'error',
-      'prefer-const': 'error'
+      'prefer-const': 'error',
+      'no-only-tests/no-only-tests': 'error'
     }
   }
 };
