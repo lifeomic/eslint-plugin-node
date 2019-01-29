@@ -16,7 +16,8 @@ exports.configs = {
       'lodash/import-scope': 'warn',
       'no-var': 'error',
       'prefer-const': 'error',
-      'no-only-tests/no-only-tests': 'error'
+      'no-only-tests/no-only-tests': 'error',
+      'security/detect-object-injection': 'off'
     }
   }
 };
