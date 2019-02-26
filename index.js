@@ -11,7 +11,7 @@ exports.configs = {
       'no-only-tests'
     ],
     rules: {
-      'generator-star-spacing': ['error', {'before': false, 'after': true}],
+      'generator-star-spacing': ['error', { 'before': false, 'after': true }],
       'import/no-extraneous-dependencies': 'error',
       'lodash/import-scope': 'warn',
       'no-var': 'error',
