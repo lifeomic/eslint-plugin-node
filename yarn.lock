@@ -262,10 +262,10 @@ eslint-plugin-lodash@^5.1.0:
   dependencies:
     lodash "4.17.11"
 
-eslint-plugin-no-only-tests@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-no-only-tests/-/eslint-plugin-no-only-tests-2.1.0.tgz#9050450bace6abbc457de894116141936fec68e7"
-  integrity sha512-T02dNNDj7sKJNvH7YLKqgv4+BDupxKG4OgadF0AecDHrYTb9hlosxqCgZbFKt28C7Ueof6ziCtEh6rnPvN4YYA==
+eslint-plugin-no-only-tests@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-no-only-tests/-/eslint-plugin-no-only-tests-2.3.0.tgz#1b0007c3b2600c74ad5f144d24bfef620e824c9d"
+  integrity sha512-5YZvazTJLWrGU8WUq3xp0Eot02zK/yUT9GoVjrFdXP8flVqH6YBdC6PsAKBRIpcs48WvSfSYrmdwAj3a4d/Iyg==
 
 eslint-plugin-node@^8.0.1:
   version "8.0.1"
