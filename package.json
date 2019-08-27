@@ -1,6 +1,6 @@
 {
   "name": "@lifeomic/eslint-plugin-node",
-  "version": "2.0.0",
+  "version": "2.0.1-alpha",
   "description": "Shared ESLint configuration and rules for LifeOmic projects",
   "main": "index.js",
   "repository": {
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "eslint-config-semistandard": "^13.0.0",
-    "eslint-config-standard": "^14.0.1",
+    "eslint-config-standard": "^12",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-lodash": "^5.1.0",
     "eslint-plugin-no-only-tests": "^2.3.0",
