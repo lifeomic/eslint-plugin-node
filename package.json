@@ -1,6 +1,6 @@
 {
   "name": "@lifeomic/eslint-plugin-node",
-  "version": "2.0.1-alpha",
+  "version": "2.0.1",
   "description": "Shared ESLint configuration and rules for LifeOmic projects",
   "main": "index.js",
   "repository": {
