@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "eslint-config-semistandard": "^13.0.0",
-    "eslint-config-standard": "^12",
+    "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-lodash": "^5.1.0",
     "eslint-plugin-no-only-tests": "^2.3.0",
